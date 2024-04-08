@@ -2,7 +2,7 @@
 
 source etc/banner
 # Banner Add
-echo -e "executing: ${LIGHTGREEN}SINDHITOOL${NOCOLOR}"
+echo -e "executing: ${LIGHTGREEN}SHAHID SINDHI${NOCOLOR}"
 echo "-----------------------"
 
 if [[ -d "output" ]]
